@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
     <head>
         <meta charset="UTF-8">
@@ -16,10 +17,12 @@
         
         <h3>Ingredients</h3>
         <ul>
+    
                 <li><strong>Lemongrass</strong>: 2 stalks</li>
                 <li><strong>Thai basil</strong>: 1 cup</li>
                 <li><strong>Kaffir Lime Leaves</strong>: 3 leaves</l1>
                 <li><strong>Shrimp</strong>: 500g</li>
+            
             </ul>
             
             <h3>Preparation</h3>
@@ -68,3 +71,5 @@
     <td colspan="2">Serving Suggestions: Serve with steamed rice or jasmine tea.</td>
 </tr>
  </table>
+</body>
+</html>
