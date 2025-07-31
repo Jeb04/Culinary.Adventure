@@ -68,5 +68,3 @@
     <td colspan="2">Serving Suggestions: Serve with steamed rice or jasmine tea.</td>
 </tr>
  </table>
-</body>
-</html>
